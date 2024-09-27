@@ -1,6 +1,6 @@
 # Expense_Categorization_Chatbot
 
-```markdown
+markdown
 # Expense Categorization System Using Small Language Models (SLMs)
 
 ## Overview
@@ -29,7 +29,7 @@ The system includes:
 To run the React frontend locally:
 1. Navigate to the `React-JS/` directory.
 2. Install the required dependencies:
-   ```bash
+   bash
    npm install
    ```
 3. Start the development server:
@@ -98,19 +98,3 @@ If you want to retrain the model:
 
 Contributions are welcome! If you would like to contribute to this project, feel free to fork the repository, make changes, and submit a pull request.
 
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
-
-```
-
-### Breakdown:
-1. **Overview**: Provides a high-level explanation of the project.
-2. **Project Structure**: Briefly describes the purpose of each file and directory.
-3. **Setup Instructions**: Provides detailed instructions to set up both the frontend and backend locally.
-4. **Usage Instructions**: Guides users on how to interact with the system once it's running.
-5. **Requirements**: Lists the dependencies needed to run the project.
-6. **Future Enhancements**: Points out potential improvements.
-7. **Contributing & License**: Encourages contributions and mentions the project's license.
-
-Let me know if you need any additional customization!
