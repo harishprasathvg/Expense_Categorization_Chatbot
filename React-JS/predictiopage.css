@@ -1,0 +1,45 @@
+.container {
+    background-color: white;
+    border-radius: 15px;
+    padding: 20px;
+    width: 60%;
+    min-height: 200px;
+    margin: 0 auto;
+    margin-top: 50px ;
+    margin-bottom: 50px;
+  }
+  
+  .header {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .content {
+    margin-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .footer {
+    text-align: center;
+  }
+  
+  .image-container {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  .error {
+    color: red;
+  }
+  
+  .imageinput{
+    width: 600px;
+  }
+
+  .uploadbutton{
+    margin-top: 30px;
+
+  }
