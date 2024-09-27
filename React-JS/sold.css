@@ -1,0 +1,40 @@
+.sample2{
+    position: relative;
+    border-radius: 40px;
+    border: 1px solid #ccc;
+    padding: 10px;
+    
+    height: 350px;
+    background-color: rgba(255,255,255,0.8);
+  }
+
+  .curamount2{
+    position: absolute;
+    left: 65%;
+    font-size: large;
+    margin-top: 100px;
+  }
+
+  .highest2{
+    position: absolute;
+    left: 65%;
+    font-size: large;
+    margin-top: 170px;
+    text-align: center;
+  }
+
+  .description2{
+    position: absolute;
+    left: 24%;
+    font-size: large;
+    margin-top: 260px;
+  }
+
+  .show2{
+    position: absolute;
+    left: 35%;
+    width: 150px;
+    font-size: large;
+    margin-top: 300px;
+    background-color: #056406;
+  }

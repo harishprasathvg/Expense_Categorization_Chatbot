@@ -1,0 +1,165 @@
+.main {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr); /* Adjust the minmax values based on your design */
+  gap: 70px; /* Adjust the gap between items */
+  margin: 20px;
+}
+.new{
+  margin-left: 42%;
+  width: 200px;
+  font-size: large;
+  margin-top: 40px;
+  background-color: brown;
+  border-radius: 15px;
+  transition: all 0.3s ease; 
+}
+
+.new:hover{
+  background-color: brown;
+  transform: scale(1.2); 
+}
+.box2 {
+
+  position: relative;
+  border-radius: 40px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  
+  height: 420px;
+  background-color: rgba(255,255,255,0.8);
+
+}
+
+.id{
+  position: absolute;
+  margin-top: 10px;
+  margin-left: 15px;
+  font-size: large;
+}
+.mess0 {
+  position: absolute;
+    margin-top:10%;
+    margin-left: 420px;
+    font-size: x-large; /* or any other size you prefer, such as larger or xx-large */
+    color: white;
+}
+
+.name{
+  position: absolute;
+  left: 30%;
+  font-size: large;
+  margin-top: 10px;
+}
+.seller{
+  position: absolute;
+  left: 10%;
+  font-size: large;
+  margin-top: 260px;
+}
+.mail{
+  position: absolute;
+  left: 50%;
+  font-size: large;
+  margin-top: 260px;
+}
+.curamount{
+  position: absolute;
+  left: 65%;
+  font-size: large;
+  margin-top: 90px;
+}
+.bidamount{
+  position: absolute;
+  left: 67%;
+  font-size: large;
+  margin-top: 150px;
+}
+.close{
+  position: absolute;
+  left: 68%;
+  width: 100px;
+  font-size: large;
+  margin-top: 210px;
+  background-color: #fd0100;
+}
+.show{
+  position: absolute;
+  left: 35%;
+  width: 150px;
+  font-size: large;
+  margin-top: 370px;
+  background-color: #056406;
+}
+.close:hover {
+  background-color: #fd0100;
+}
+.active{
+  position: absolute;
+  right: 65px;
+  color: #056406;
+  font-size: large;
+  font-weight: 500;
+}
+.closed{
+  position: absolute;
+  right: 65px;
+  color: #fd0100;
+  font-size: large;
+  font-weight: 500;
+}
+
+.icon{
+  position: absolute;
+  right:45px;
+  width: 15px;
+  height: 15px;
+  margin-top: 21px;
+  border-radius: 50%;
+}
+.image{
+  position: absolute;
+  width: 250px;
+  height: 200px;
+  margin-top: 50px;
+  margin-left: 30px;
+  
+  border-radius: 10%;
+}
+.countdown{
+  position: absolute;
+  right: 40px;
+  margin-top: 40px;
+}
+.sample1{
+  position: relative;
+  border-radius: 40px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  
+  height: 350px;
+  background-color: rgba(255,255,255,0.8);
+  opacity: 0.6;
+  pointer-events: none;
+  overflow: hidden;
+}
+
+.auction-container {
+  transition: all 0.3s ease; 
+}
+
+.auction-container:hover {
+  transform: scale(1.1); 
+}
+
+.auction-container.hovered {
+  transform: scale(1.1); 
+}
+
+
+
+.p{
+  color: white;
+  margin-right: 200px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 20px;
+}
