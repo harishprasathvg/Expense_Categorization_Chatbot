@@ -1,6 +1,4 @@
-# Expense_Categorization_Chatbot
 
-markdown
 # Expense Categorization System Using Small Language Models (SLMs)
 
 ## Overview
